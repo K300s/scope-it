@@ -11,4 +11,8 @@ This is a help-desk practice app, not a hands-on server lab. Each scene trains t
 
 Live app: https://scope-it-app.grok.me
 
+Preview images (current host only — not the retired Desk Duty slug):
+- Link card: https://scope-it-app.grok.me/og.jpg
+- X banner: https://scope-it-app.grok.me/x-banner.jpg
+
 Built with Grok as a portfolio project while preparing for entry-level desktop / IT support roles.
