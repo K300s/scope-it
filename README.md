@@ -9,6 +9,6 @@ This is a help-desk practice app, not a hands-on server lab. Each scene trains t
 3. What to try next
 4. Fix, reboot, or escalate?
 
-Live app: https://sand-zenith-atlas-tulip.grok.me
+Live app: https://scope-it-app.grok.me
 
 Built with Grok as a portfolio project while preparing for entry-level desktop / IT support roles.
